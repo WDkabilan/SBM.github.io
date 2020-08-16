@@ -5,8 +5,8 @@
     text-align: center;
     border: 3px solid black;
     padding : 15px 0px 15p ;
-    width: 1500px;
-    height: 120px;
+    width: 100%;
+    height: 20%;
     border-radius: 10px;
     position: absolute;
     top:5px;
@@ -37,13 +37,14 @@ button{
 .spart{
     position:relative;
     top: 200px;
-    left: auto;
+    margin-left:0.4%;
     display: inline-block;
     border:2px solid black;
-    width: 290px;
-    height: 500px;
+    width:19%;
+    height: 70%;
     border-radius: 20px;
     text-align: center;
     padding : 50px 0px 25p ;
 
 }
+
