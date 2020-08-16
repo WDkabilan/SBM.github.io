@@ -1,0 +1,49 @@
+.part1{
+    background: fixed;
+    background: linear-gradient(#ff2cdf,#0014ff);
+    z-index: 1;
+    text-align: center;
+    border: 3px solid black;
+    padding : 15px 0px 15p ;
+    width: 1500px;
+    height: 120px;
+    border-radius: 10px;
+    position: absolute;
+    top:5px;
+    left : 5px;
+}
+img{
+    height: 300px;
+    width:250px;
+    border-radius: 20px;
+    padding : 50px 0px 25p ;
+    
+}
+.mug{
+    height:120px;
+    width:120px; 
+    position:absolute;
+    left:20%;
+}
+button{
+    width: 250px;
+    height: 150px; 
+    border-radius: 20px;
+    border-color: darkslateblue;
+    font-size: 100%;
+    text-align: center;
+    background-color: darkgrey;
+}
+.spart{
+    position:relative;
+    top: 200px;
+    left: auto;
+    display: inline-block;
+    border:2px solid black;
+    width: 290px;
+    height: 500px;
+    border-radius: 20px;
+    text-align: center;
+    padding : 50px 0px 25p ;
+
+}
